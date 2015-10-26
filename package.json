@@ -15,6 +15,10 @@
     "chai-immutable": "^1.3.0",
     "mocha": "^2.3.3"
   },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/ravenwilde/react-redux-voting-server.git"
+  },
   "dependencies": {
     "immutable": "^3.7.5"
   }
